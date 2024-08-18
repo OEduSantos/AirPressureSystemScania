@@ -116,8 +116,3 @@ Após os resultados obtidos, as próximas etapas incluem:
 3. **Tunagem do Modelo**: Como etapa contínua, recomenda-se realizar a tunagem do modelo. Isso pode envolver ajustes adicionais nos hiperparâmetros do modelo, inclusão de novas variáveis relevantes identificadas durante o processo, ou aplicação de técnicas avançadas para melhorar ainda mais a precisão e a economia de custos prevista.
 
 Essas etapas garantem que os benefícios identificados sejam maximizados e que o modelo proposto possa ser implementado de forma eficaz e sustentável na operação da empresa.
-
-# Atividades do desafio
-
-- A respostas das atividades propostas podem ser encontradas [aqui](Dados/Challenge%20Activities.docx).
-
