@@ -91,7 +91,7 @@ Após a avaliação dos modelos baseline, procedemos ao desenvolvimento de um mo
 
 # Resultado do Modelo
 
-Com nosso modelo inicial desenvolvido, teríamos economizado cerca de 33,72% no ano atual.
+Com nosso modelo inicial desenvolvido, teríamos economizado cerca de 33,85% no ano atual.
 
 | Cenário    | Gasto Projetado    	| Redução (%) 	|
 |------------|---------------------	|-------------	|
